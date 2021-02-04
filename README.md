@@ -10,3 +10,5 @@ To install networkx: https://networkx.org/documentation/stable/install.html
 ## Maintainer
 @George-the-Ren
 ## Contributors
+@George-the-Ren
+Dr. Junyuan Lin
