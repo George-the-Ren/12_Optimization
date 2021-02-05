@@ -8,7 +8,7 @@ To install line-profiler: https://pypi.org/project/line-profiler/#description
 
 To install networkx: https://networkx.org/documentation/stable/install.html
 ## Usage
-optimization_and_primary_algorithm.py is the formal project which produces computational time of both algorithms and results.
+optimization_and_primary_algorithm.py is the formal project which produces computational time of both algorithms and results. You should first install all packages, download the file, and open it through an editor and run. My python environment is Python 3.8 64-bit.
 
 tester.ipynb is a quick tester on a Watts-Strogatz graph with 128 nodes and 4 degree of nodes. You should download the file and open through jupyter notebook. After running each block, you would see the a printed dictionary containing the edges in path and their weights.
 
