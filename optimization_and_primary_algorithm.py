@@ -227,7 +227,7 @@ redundant = {}
 path_dict = {}
 
 prof = line_profiler.LineProfiler(no_flag)
-prof.enable()  # 开始性能分析
+prof.enable() 
 no_flag()
-prof.disable()  # 停止性能分析
+prof.disable() 
 prof.print_stats(sys.stdout)
