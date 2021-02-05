@@ -8,11 +8,11 @@ To install line-profiler: https://pypi.org/project/line-profiler/#description
 
 To install networkx: https://networkx.org/documentation/stable/install.html
 ## Usage
-optimization_and_primary_algorithm.py is the formal project which produces computational time of both algorithms and results
+optimization_and_primary_algorithm.py is the formal project which produces computational time of both algorithms and results.
 
-tester.ipynb is a quick tester on a Watts-Strogatz graph with 128 nodes and 4 degree of nodes. At the end, it produces the path outcome which includes edges and their weights.
+tester.ipynb is a quick tester on a Watts-Strogatz graph with 128 nodes and 4 degree of nodes. You should download the file and open through jupyter notebook. After running each block, you would see the a printed dictionary containing the edges in path and their weights.
 
-Note: The dictionary path_list contains the path cover, edges, and weights. Print path_list if you want to see results. All computational time results are included in the paper.
+Note: The dictionary path_list contains the path cover, edges, and weights. Print path_list if you want to see path cover results. All computational time results are included in the paper.
 ## Maintainer
 @George-the-Ren
 ## Contributors
